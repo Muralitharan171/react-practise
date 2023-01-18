@@ -1,0 +1,11 @@
+.card-content{
+  width: 250px;
+  
+border: 1px solid black;
+
+}
+.App{
+  display:flex ;
+ margin: 20px;
+ justify-content: space-around;
+}
